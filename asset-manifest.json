@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/warszawa/static/css/main.a0a09e93.css",
+    "main.js": "/warszawa/static/js/main.5c43a4c7.js",
+    "static/media/main5.jpg": "/warszawa/static/media/main5.c3600d2570fe9d9a9c27.jpg",
+    "static/media/main7.jpg": "/warszawa/static/media/main7.9b5e16055a3ea207a6db.jpg",
+    "static/media/main.jpg": "/warszawa/static/media/main.a1edd06ad3e7aef766e1.jpg",
+    "static/media/main2.jpg": "/warszawa/static/media/main2.f337f43582183f051d5b.jpg",
+    "static/media/main3.jpg": "/warszawa/static/media/main3.54de53bb98b41dc1b8fd.jpg",
+    "static/media/main6.jpg": "/warszawa/static/media/main6.069d176e211229c1335c.jpg",
+    "static/media/main4.jpg": "/warszawa/static/media/main4.01fdfd8f6c5d9d831057.jpg",
+    "static/media/divider.png": "/warszawa/static/media/divider.9d9e35e9d8536437977b.png",
+    "index.html": "/warszawa/index.html",
+    "main.a0a09e93.css.map": "/warszawa/static/css/main.a0a09e93.css.map",
+    "main.5c43a4c7.js.map": "/warszawa/static/js/main.5c43a4c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0a09e93.css",
+    "static/js/main.5c43a4c7.js"
+  ]
+}
